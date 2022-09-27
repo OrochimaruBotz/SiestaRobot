@@ -54,13 +54,13 @@ pm_about_notes_text: |
   ✪ Anda dapat menyimpan pesan/media/audio atau apa pun sebagai catatan untuk mendapatkan catatan cukup gunakan # di awal kata"
   ✪ Anda juga dapat mengatur tombol untuk catatan dan filter (lihat menu bantuan)
 pm_about_support_text: |
-  *✺ Obrolan dukungan Robot Siesta ✺*
+  *✺ Obrolan dukungan Robot Gojo ✺*
 
   Bergabunglah dengan Grup/Saluran Dukungan Saya untuk melihat atau melaporkan masalah di Siesta.
 pm_about_credit_text: |
   *✺ Credits for Gojo ✺*
 
-  Disini Developers Membuat Dan Memberi Inspirasi Untuk Membuat Robot Siesta
+  Disini Developers Membuat Dan Memberi Inspirasi Untuk Membuat Robot Gojo
 pm_help_text: |
   *✺ Klik tombol di bawah ini untuk mendapatkan deskripsi tentang perintah spesifik. ✺*
 pm_help_module_text: "Berikut adalah bantuan untuk modul *{}* :\n\n"
